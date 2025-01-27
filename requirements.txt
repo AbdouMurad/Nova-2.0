@@ -1,0 +1,15 @@
+python-dotenv
+openai
+pyaudio
+keyboard
+pygame
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-texttospeech
+spotipy
+tzdata
+pyautogui
+boto3
+streamlit
